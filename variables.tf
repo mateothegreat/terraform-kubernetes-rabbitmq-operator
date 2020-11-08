@@ -1,4 +1,4 @@
-variable "server" {
+variable "host" {
 
     type        = string
     description = "kuberetes api url"
